@@ -97,7 +97,7 @@ Here are some of the projects I'm proud of:
 ### Contribution Graph 🐍
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BhuiyanYasin/BhuiyanYasin/output/github-contribution-grid-snake.svg" alt="Yasin's contribution snake" />
+  <img src="[https://raw.githubusercontent.com/BhuiyanYasin/BhuiyanYasin/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="Yasin's contribution snake" />
 </div>
 
 *To get the animated contribution graph above, create a repository with the same name as your GitHub username (`BhuiyanYasin/BhuiyanYasin`) and add [this GitHub Action](https://github.com/platane/snk) to it.* 
