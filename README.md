@@ -100,4 +100,4 @@ Here are some of the projects I'm proud of:
   <img src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="Yasin's contribution snake" />
 </div>
 
-> *This graph is a public placeholder from `CompetitiveLin`. To use your own, set up the GitHub Action from [Platane/snk](https://github.com/platane/snk).*
+
