@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  <a href="mailto:yasin@easydevnow.com" target="_blank">
+  <a href="mailto:hello@yasinbhuiyan.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/yasin-bhuiyan-354229366/" target="_blank">
